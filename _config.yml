@@ -1,0 +1,28 @@
+name: adoptelecloud
+favicon: null
+layout_spectrum: 0.26733925961889327
+typography_spectrum: 0.08780077379196882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.09083028719760478
+  lightness: 0.5144006970804185
+  saturation: 0.45934730605222285
+  rhythmicContrast: 0.9574725907295942
+purpose: []
